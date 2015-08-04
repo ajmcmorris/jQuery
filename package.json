@@ -1,0 +1,26 @@
+{
+  "name": "jquery",
+  "version": "0.1.0",
+  "description": "jquery files",
+  "main": "landing_page-jquery.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajmcmorris/jQuery.git"
+  },
+  "keywords": [
+    "jquery"
+  ],
+  "author": "andre mcmorris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajmcmorris/jQuery/issues"
+  },
+  "homepage": "https://github.com/ajmcmorris/jQuery#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.11.2"
+  }
+}
